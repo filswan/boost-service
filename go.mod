@@ -4,7 +4,7 @@ go 1.22.3
 
 require (
 	github.com/BurntSushi/toml v1.3.2
-	github.com/filswan/swan-boost-lib v0.0.5-0.20241118083435-a7fa8895f001
+	github.com/filswan/swan-boost-lib v0.0.5
 	github.com/gin-gonic/gin v1.9.1
 	go.uber.org/zap v1.27.0
 )
